@@ -15,6 +15,13 @@
   --color-blue-3: #0597F2;
   --color-blue-4: #74D8FF;
   --color-blue-5: #D5F2FE;
+  --color-red-1: #F5222D;
+  --color-red-2: #CF1322;
+  --color-green-1: #88B441;
+  --color-orange-1: #FDB515;
+  --color-orange-2: #FA8C16;
+  --color-orange-3: #D46B08;
+  --color-purple-1: #8D21BE;
 }
 
 
@@ -35,7 +42,7 @@
 }
 
 
-/* Black */
+/* Black 1 */
 .color-black-1 {
   color: var(--color-black-1);
 }
@@ -57,7 +64,7 @@
 }
 
 
-/* Gray */
+/* Gray 1 */
 .color-gray-1 {
   color: var(--color-gray-1);
 }
@@ -98,7 +105,7 @@
   border-color: var(--color-gray-cool-1);
 }
 
-/* Blue */
+/* Blue 1 */
 .color-blue-1 {
   color: var(--color-blue-1);
 }
@@ -147,4 +154,78 @@
 }
 .border-color-blue-5 {
   border-color: var(--color-blue-5);
+}
+
+/* Red 1 */
+.color-red-1 {
+  color: var(--color-red-1);
+}
+.bg-color-red-1 {
+  background-color: var(--color-red-1);
+}
+.border-color-red-1 {
+  border-color: var(--color-red-1);
+}
+/* Red  2 */
+.color-red-2 {
+  color: var(--color-red-2);
+}
+.bg-color-red-2 {
+  background-color: var(--color-red-2);
+}
+.border-color-red-2 {
+  border-color: var(--color-red-2);
+}
+
+/* Green 1 */
+.color-green-1 {
+  color: var(--color-green-1);
+}
+.bg-color-green-1 {
+  background-color: var(--color-green-1);
+}
+.border-color-green-1 {
+  border-color: var(--color-green-1);
+}
+
+/* Orange 1 */
+.color-orange-1 {
+  color: var(--color-orange-1);
+}
+.bg-color-orange-1 {
+  background-color: var(--color-orange-1);
+}
+.border-color-orange-1 {
+  border-color: var(--color-orange-1);
+}
+/* Orange 2 */
+.color-orange-2 {
+  color: var(--color-orange-2);
+}
+.bg-color-orange-2 {
+  background-color: var(--color-orange-2);
+}
+.border-color-orange-2 {
+  border-color: var(--color-orange-2);
+}
+/* Orange 3 */
+.color-orange-3 {
+  color: var(--color-orange-3);
+}
+.bg-color-orange-3 {
+  background-color: var(--color-orange-3);
+}
+.border-color-orange-3 {
+  border-color: var(--color-orange-3);
+}
+
+/* Purple 1 */
+.color-purple-1 {
+  color: var(--color-purple-1);
+}
+.bg-color-purple-1 {
+  background-color: var(--color-purple-1);
+}
+.border-color-purple-1 {
+  border-color: var(--color-purple-1);
 }
