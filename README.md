@@ -16,3 +16,31 @@ If you use a build system that understands CSS (like Webpack), then you can impo
 ```
 import 'compopo-design/css/all.css';
 ```
+
+
+## How to use
+
+Combine classes to get the desired style.
+
+```
+<h1 class="color-black-1 font-size-32pt font-weight-bold">
+  My header
+</h1>
+```
+
+
+**Color Classes**
+
+* `.color-${colorname}`
+* `.bg-color-${colorname}`
+* `.border-color-${colorname}`
+
+
+**Typography Classes**
+
+* `.font-family-roboto`
+* `.font-family-roboto-mono`
+* `.font-size-${size}`
+* `.font-weight-bold`
+* `.font-weight-normal`
+* `.text-uppercase`
