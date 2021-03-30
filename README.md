@@ -19,7 +19,7 @@ Use Templates/Components/Custom Elements to create re-usable structure instead o
 
 ```
 export function Button(props) {
-  return <button onClick={handleClick} className="bg-color-blue-1 color-white font-size-32pt border-radius-8px padding-top-bottom-8px padding-left-right-32px">
+  return <button onClick={handleClick} className="bg-color-blue-3 color-white font-size-32pt border-radius-8px padding-top-bottom-8px padding-left-right-32px">
     {props.children}
   </button>
 }
