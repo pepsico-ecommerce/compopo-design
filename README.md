@@ -3,7 +3,7 @@ Unified design for front-end.
 
 The CSS is written with [CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) and utility-first classes. This means each class contains only one rule. This is the same style used by the popular [TailWindCSS](https://tailwindcss.com).
 
-### [Read Full Documentation on the Wiki](https://github.com/pepsico-ecommerce/compopo-design/wiki)
+### [Read the Full Documentation on the Wiki](https://github.com/pepsico-ecommerce/compopo-design/wiki)
 
 ## How to use
 
@@ -13,6 +13,16 @@ Combine classes to get the desired style.
 <h1 class="color-black-1 font-size-32pt font-weight-bold">
   My header
 </h1>
+```
+
+Use Templates/Components/Custom Elements to create re-usable structure instead of repeating the same class list across your application.
+
+```
+export function Button(props) {
+  return <button onClick={handleClick} className="bg-color-blue-1 color-white font-size-32pt border-radius-8px padding-top-bottom-8px padding-left-right-32px">
+    {props.children}
+  </button>
+}
 ```
 
 ---

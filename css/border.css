@@ -1,0 +1,9 @@
+/* Following Utility-First Design.
+ One style per class.
+ https://frontstuff.io/in-defense-of-utility-first-css
+*/
+
+
+.border-radius-8px {
+  border-radius: 8px;
+}
