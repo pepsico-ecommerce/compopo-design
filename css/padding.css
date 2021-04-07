@@ -3,6 +3,105 @@
  https://frontstuff.io/in-defense-of-utility-first-css
 */
 
+/* 0.5em */
+.padding-top-0_5em {
+  padding-top: 0.5em;
+}
+.padding-bottom-0_5em {
+  padding-bottom: 0.5em;
+}
+.padding-left-0_5em {
+  padding-left: 0.5em;
+}
+.padding-right-0_5em {
+  padding-right: 0.5em;
+}
+.padding-top-bottom-0_5em {
+  /* padding can be written as one style, so this still counts as one. */
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+.padding-left-right-0_5em {
+  /* padding can be written as one style, so this still counts as one. */
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+/* 1em */
+.padding-top-1em {
+  padding-top: 1em;
+}
+.padding-bottom-1em {
+  padding-bottom: 1em;
+}
+.padding-left-1em {
+  padding-left: 1em;
+}
+.padding-right-1em {
+  padding-right: 1em;
+}
+.padding-top-bottom-1em {
+  /* padding can be written as one style, so this still counts as one. */
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+.padding-left-right-1em {
+  /* padding can be written as one style, so this still counts as one. */
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+/* 2em */
+.padding-top-2em {
+  padding-top: 2em;
+}
+.padding-bottom-2em {
+  padding-bottom: 2em;
+}
+.padding-left-2em {
+  padding-left: 2em;
+}
+.padding-right-2em {
+  padding-right: 2em;
+}
+.padding-top-bottom-2em {
+  /* padding can be written as one style, so this still counts as one. */
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+.padding-left-right-2em {
+  /* padding can be written as one style, so this still counts as one. */
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+
+
+/* 4px */
+.padding-top-4px {
+  padding-top: 4px;
+}
+.padding-bottom-4px {
+  padding-bottom: 4px;
+}
+.padding-left-4px {
+  padding-left: 4px;
+}
+.padding-right-4px {
+  padding-right: 4px;
+}
+.padding-top-bottom-4px {
+  /* padding can be written as one style, so this still counts as one. */
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+.padding-left-right-4px {
+  /* padding can be written as one style, so this still counts as one. */
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+
 /* 8px */
 .padding-top-8px {
   padding-top: 8px;

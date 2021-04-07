@@ -6,12 +6,6 @@
 * {
   --font-family-roboto: 'Roboto', sans-serif;
   --font-family-roboto-mono: 'Roboto Mono', monospace;
-  --font-size-32pt: '32pt';
-  --font-size-24pt: '24pt';
-  --font-size-18pt: '18pt';
-  --font-size-16pt: '16pt';
-  --font-size-14pt: '14pt';
-  --font-size-12pt: '12pt';
   --font-weight-bold: 'bold';
   --font-weight-normal: 'normal';
   --text-uppercase: 'uppercase';
@@ -35,23 +29,23 @@
 /*
   Font Size
  */
-.font-size-32pt {
-  font-size: var(--font-size-32pt);
+.font-size-32px {
+  font-size: 32px;
 }
-.font-size-24pt {
-  font-size: var(--font-size-24pt);
+.font-size-24px {
+  font-size: 24px;
 }
-.font-size-18pt {
-  font-size: var(--font-size-18pt);
+.font-size-18px {
+  font-size: 18px;
 }
-.font-size-16pt {
-  font-size: var(--font-size-16pt);
+.font-size-16px {
+  font-size: 16px;
 }
-.font-size-14pt {
-  font-size: var(--font-size-14pt);
+.font-size-14px {
+  font-size: 14px;
 }
-.font-size-12pt {
-  font-size: var(--font-size-12pt);
+.font-size-12px {
+  font-size: 12px;
 }
 
 /*

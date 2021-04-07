@@ -1,4 +1,7 @@
-@import "colors.css";
-@import "typography.css";
 @import "border.css";
+@import "colors.css";
+@import "display.css";
+@import "margin.css";
 @import "padding.css";
+@import "size.css";
+@import "typography.css";

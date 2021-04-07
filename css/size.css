@@ -1,0 +1,11 @@
+/* Following Utility-First Design.
+ One style per class.
+ https://frontstuff.io/in-defense-of-utility-first-css
+*/
+
+.width-16px {
+  width: 16px;
+}
+.height-16px {
+  height: 16px;
+}

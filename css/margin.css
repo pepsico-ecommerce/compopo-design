@@ -1,0 +1,53 @@
+/* Following Utility-First Design.
+ One style per class.
+ https://frontstuff.io/in-defense-of-utility-first-css
+*/
+
+
+/* 0.5em */
+.margin-top-0_5em {
+  margin-top: 0.5em;
+}
+.margin-bottom-0_5em {
+  margin-bottom: 0.5em;
+}
+.margin-left-0_5em {
+  margin-left: 0.5em;
+}
+.margin-right-0_5em {
+  margin-right: 0.5em;
+}
+.margin-top-bottom-0_5em {
+  /* padding can be written as one style, so this still counts as one. */
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+.margin-left-right-0_5em {
+  /* padding can be written as one style, so this still counts as one. */
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+}
+
+/* 1em */
+.margin-top-1em {
+  margin-top: 1em;
+}
+.margin-bottom-1em {
+  margin-bottom: 1em;
+}
+.margin-left-1em {
+  margin-left: 1em;
+}
+.margin-right-1em {
+  margin-right: 1em;
+}
+.margin-top-bottom-1em {
+  /* padding can be written as one style, so this still counts as one. */
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.margin-left-right-1em {
+  /* padding can be written as one style, so this still counts as one. */
+  margin-left: 1em;
+  margin-right: 1em;
+}

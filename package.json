@@ -1,11 +1,8 @@
 {
   "name": "compopo-design",
   "version": "0.0.1",
-  "description": "FE Design",
+  "description": "Core Components for PepsiCo Front End",
   "files": "css/*.css",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pepsico-ecommerce/compopo-design.git"

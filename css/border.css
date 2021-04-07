@@ -4,6 +4,13 @@
 */
 
 
+.border-none {
+  border: none;
+}
+
+.border-radius-4px {
+  border-radius: 4px;
+}
 .border-radius-8px {
   border-radius: 8px;
 }
