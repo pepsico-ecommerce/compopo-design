@@ -3,9 +3,392 @@
  https://frontstuff.io/in-defense-of-utility-first-css
 */
 
+/***** WIDTH *****/
+/* width % */
+.width-100pc {
+  width: 100%;
+}
+
+.width-99pc {
+  width: 99%;
+}
+
+.width-98pc {
+  width: 98%;
+}
+
+.width-90pc {
+  width: 90%;
+}
+
+.width-87pc {
+  width: 87%;
+}
+
+.width-80pc {
+  width: 80%;
+}
+
+.width-75pc {
+  width: 75%;
+}
+
+.width-70pc {
+  width: 70%;
+}
+
+.width-60pc {
+  width: 60%;
+}
+
+.width-50pc {
+  width: 50%;
+}
+
+.width-40pc {
+  width: 40%;
+}
+
+.width-35pc {
+  width: 35%;
+}
+
+.width-20pc {
+  width: 20%;
+}
+
+/* width vw */
+.width-100vw {
+  width: 100vw;
+}
+
+.width-70vw {
+  width: 70vw;
+}
+
+.width-65vw {
+  width: 65vw;
+}
+
+/* width vwmax */
+.width-99vmax {
+  width: 99vmax;
+}
+
+/* width em */
+.width-32em {
+  width: 25em;
+}
+
+.width-25em {
+  width: 25em;
+}
+
+.width-14em {
+  width: 14em;
+}
+
+.width-8em {
+  width: 8em;
+}
+
+.width-6em {
+  width: 6em;
+}
+
+.width-1em {
+  width: 1em;
+}
+
+/* width rem */
+.width-30rem {
+  width: 30rem;
+}
+
+.width-25rem {
+  width: 25rem;
+}
+
+.width-24rem {
+  width: 24rem;
+}
+
+.width-22rem {
+  width: 22rem;
+}
+
+.width-20rem {
+  width: 20rem;
+}
+
+.width-16rem {
+  width: 16rem;
+}
+
+.width-14rem {
+  width: 14rem;
+}
+
+.width-12rem {
+  width: 12rem;
+}
+
+.width-10rem {
+  width: 10rem;
+}
+
+.width-8rem {
+  width: 8rem;
+}
+
+.width-7rem {
+  width: 7rem;
+}
+
+.width-5rem {
+  width: 5rem;
+}
+
+.width-1_5rem {
+  width: 1.5rem;
+}
+
+/* width px */
+.width-920px {
+  width: 920px;
+}
+
+.width-630px {
+  width: 630px;
+}
+
+.width-600px {
+  width: 600px;
+}
+
+.width-367px {
+  width: 367px;
+}
+
+.width-350px {
+  width: 350px;
+}
+
+.width-330px {
+  width: 330px;
+}
+
+.width-320px {
+  width: 320px;
+}
+
+.width-300px {
+  width: 300px;
+}
+
+.width-270px {
+  width: 270px;
+}
+
+.width-220px {
+  width: 220px;
+}
+
+.width-210px {
+  width: 210px;
+}
+
+.width-200px {
+  width: 200px;
+}
+
+.width-184px {
+  width: 184px;
+}
+
+.width-160px {
+  width: 160px;
+}
+
+.width-123px {
+  width: 123px;
+}
+
+.width-24px {
+  width: 24px;
+}
+
+.width-20px {
+  width: 20px;
+}
+
+.width-18px {
+  width: 18px;
+}
+
 .width-16px {
   width: 16px;
 }
+
+.width-15px {
+  width: 15px;
+}
+
+/***** HEIGHT *****/
+/* height % */
+.height-100pc {
+  height: 100%;
+}
+
+.height-90pc {
+  height: 90%;
+}
+
+/* height vh */
+.height-100vh {
+  height: 100vh;
+}
+
+.height-90vh {
+  height: 90vh;
+}
+
+.height-85vh {
+  height: 85vh;
+}
+
+.height-80vh {
+  height: 80vh;
+}
+
+/* height vhmax  */
+.height-22vmax {
+  height: 22vmax;
+}
+
+/* height em */
+.height-25em {
+  height: 25em;
+}
+
+.height-20em {
+  height: 20em;
+}
+
+.height-19em {
+  height: 19em;
+}
+
+.height-12em {
+  height: 12em;
+}
+
+.height-6em {
+  height: 6em;
+}
+
+.height-1_2em {
+  height: 1.2em;
+}
+
+/* height rem  */
+.height-28rem {
+  height: 28rem;
+}
+
+.height-14rem {
+  height: 14rem;
+}
+
+.height-5rem {
+  height: 5rem;
+}
+
+.height-2rem {
+  height: 2rem;
+}
+
+.height-1_5rem {
+  height: 1.5rem;
+}
+
+/* height px */
+.height-480px {
+  height: 480px;
+}
+
+.height-417px {
+  height: 417px;
+}
+
+.height-400px {
+  height: 400px;
+}
+
+.height-300px {
+  height: 300px;
+}
+
+.height-240px {
+  height: 240px;
+}
+
+.height-200px {
+  height: 200px;
+}
+
+.height-190px {
+  height: 190px;
+}
+
+.height-180px {
+  height: 180px;
+}
+
+.height-150px {
+  height: 150px;
+}
+
+.height-80px {
+  height: 80px;
+}
+
+.height-65px {
+  height: 65px;
+}
+
+.height-50px {
+  height: 50px;
+}
+
+.height-40px {
+  height: 40px;
+}
+
+.height-38px {
+  height: 38px;
+}
+
+.height-32px {
+  height: 32px;
+}
+
+.height-24px {
+  height: 24px;
+}
+
+.height-20px {
+  height: 20px;
+}
+
+.height-18px {
+  height: 18px;
+}
+
 .height-16px {
   height: 16px;
+}
+
+.height-15px {
+  height: 15px;
 }
