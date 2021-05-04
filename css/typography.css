@@ -6,9 +6,6 @@
 * {
   --font-family-roboto: 'Roboto', sans-serif;
   --font-family-roboto-mono: 'Roboto Mono', monospace;
-  --font-weight-bold: 'bold';
-  --font-weight-normal: 'normal';
-  --text-uppercase: 'uppercase';
 }
 
 /* Following Utility-First Design.
@@ -32,8 +29,14 @@
 .font-size-32px {
   font-size: 32px;
 }
+.font-size-26px {
+  font-size: 26px;
+}
 .font-size-24px {
   font-size: 24px;
+}
+.font-size-22px {
+  font-size: 22px;
 }
 .font-size-18px {
   font-size: 18px;
@@ -52,13 +55,21 @@
   Font Weight
  */
 .font-weight-bold {
-  font-weight: var(--font-weight-bold);
+  font-weight: bold;
 }
 .font-weight-normal {
-  font-weight: var(--font-weight-normal);
+  font-weight: normal;
 }
 
 
 .text-uppercase {
-  text-transform: var(--text-uppercase);
+  text-transform: uppercase;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.text-align-right {
+  text-align: right;
 }
