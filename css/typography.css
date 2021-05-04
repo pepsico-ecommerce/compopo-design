@@ -73,3 +73,8 @@
 .text-align-right {
   text-align: right;
 }
+
+/* Line Height */
+.line-height-18px {
+  line-height: 18px;
+}
