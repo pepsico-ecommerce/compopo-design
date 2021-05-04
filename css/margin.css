@@ -3,6 +3,10 @@
  https://frontstuff.io/in-defense-of-utility-first-css
 */
 
+/* 0.25em */
+.margin-bottom-0_25em {
+  margin-bottom: 0.25em;
+}
 
 /* 0.5em */
 .margin-top-0_5em {
@@ -50,4 +54,13 @@
   /* padding can be written as one style, so this still counts as one. */
   margin-left: 1em;
   margin-right: 1em;
+}
+
+/* 0 */ 
+.margin-bottom-0 {
+  margin-bottom: 0;
+}
+
+.margin-all-0 {
+  margin: 0;
 }
