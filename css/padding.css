@@ -78,6 +78,10 @@
   padding-right: 2em;
 }
 
+.padding-all-2em {
+  padding: 2em;
+}
+
 
 
 /* 4px */
@@ -129,6 +133,11 @@
   padding-right: 8px;
 }
 
+/* 20px */
+.padding-all-20px {
+  padding: 20px;
+}
+
 
 /* 32px */
 .padding-top-32px {
@@ -152,4 +161,9 @@
   /* padding can be written as one style, so this still counts as one. */
   padding-left: 32px;
   padding-bottom: 32px;
+}
+
+/* 0 */
+.padding-all-0 {
+  padding: 0;
 }

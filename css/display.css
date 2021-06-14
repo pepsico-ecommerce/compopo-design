@@ -19,3 +19,11 @@
 .justify-content-space-around {
   justify-content: space-around;
 }
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.justify-content-space-between {
+  justify-content: space-between;
+}
