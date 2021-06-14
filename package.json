@@ -1,6 +1,6 @@
 {
   "name": "compopo-design",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Core Components for PepsiCo Front End",
   "files": "css/*.css",
   "repository": {
