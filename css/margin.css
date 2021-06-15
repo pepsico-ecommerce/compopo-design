@@ -3,12 +3,40 @@
  https://frontstuff.io/in-defense-of-utility-first-css
 */
 
+/* 0 */
+.margin-0 {
+  margin: 0;
+}
+.margin-top-0 {
+  margin-top: 0;
+}
+.margin-bottom-0 {
+  margin-bottom: 0;
+}
+.margin-top-bottom-0 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.margin-left-0 {
+  margin-left: 0;
+}
+.margin-right-0 {
+  margin-right: 0;
+}
+.margin-left-right-0 {
+  margin-left: 0;
+  margin-right: 0;
+}
+
 /* 0.25em */
 .margin-bottom-0_25em {
   margin-bottom: 0.25em;
 }
 
 /* 0.5em */
+.margin-0_5em {
+  margin: 0.5em;
+}
 .margin-top-0_5em {
   margin-top: 0.5em;
 }
@@ -33,6 +61,9 @@
 }
 
 /* 1em */
+.margin-1em {
+  margin: 1em;
+}
 .margin-top-1em {
   margin-top: 1em;
 }
@@ -56,11 +87,29 @@
   margin-right: 1em;
 }
 
-/* 0 */ 
-.margin-bottom-0 {
-  margin-bottom: 0;
+/* 2em */
+.margin-2em {
+  margin: 2em;
 }
-
-.margin-all-0 {
-  margin: 0;
+.margin-top-2em {
+  margin-top: 2em;
+}
+.margin-bottom-2em {
+  margin-bottom: 2em;
+}
+.margin-left-2em {
+  margin-left: 2em;
+}
+.margin-right-2em {
+  margin-right: 2em;
+}
+.margin-top-bottom-2em {
+  /* padding can be written as one style, so this still counts as one. */
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+.margin-left-right-2em {
+  /* padding can be written as one style, so this still counts as one. */
+  margin-left: 2em;
+  margin-right: 2em;
 }
