@@ -3,6 +3,8 @@ Unified design for front-end.
 
 The CSS is written with [CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) and utility-first classes. This means each class contains only one rule. This is the same style used by the popular [TailWindCSS](https://tailwindcss.com).
 
+See the full design document on [Zeplin](https://app.zeplin.io/styleguide/606e0b2d9f87f74ff80fa38f/about)
+
 ### [Read the Full Documentation on the Wiki](https://github.com/pepsico-ecommerce/compopo-design/wiki)
 
 ## How to use
