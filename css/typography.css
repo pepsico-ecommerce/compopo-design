@@ -6,6 +6,12 @@
 * {
   --font-family-roboto: 'Roboto', sans-serif;
   --font-family-roboto-mono: 'Roboto Mono', monospace;
+  --size-xxlarge: 32px;
+  --size-xlarge: 24px;
+  --size-large: 18px;
+  --size-default: 16px;
+  --size-small: 14px;
+  --size-xsmall: 12px;
 }
 
 /* Following Utility-First Design.
@@ -27,22 +33,22 @@
   Font Size
  */
 .font-size-xxlarge {
-  font-size: 32px;
+  font-size: var(--size-xxlarge);
 }
 .font-size-xlarge {
-  font-size: 24px;
+  font-size: var(--size-xlarge);
 }
 .font-size-large {
-  font-size: 18px;
+  font-size: var(--size-large);
 }
 .font-size-default {
-  font-size: 16px;
+  font-size: var(--size-default);
 }
 .font-size-small {
-  font-size: 14px;
+  font-size: var(--size-small);
 }
 .font-size-xsmall {
-  font-size: 12px;
+  font-size: var(--size-xsmall);
 }
 
 .font-size-32px {
@@ -79,10 +85,16 @@
 .font-weight-normal {
   font-weight: normal;
 }
+.font-weight-inherit {
+  font-weight: inherit;
+}
 
 
 .text-uppercase {
   text-transform: uppercase;
+}
+.text-lowercase {
+  text-transform: lowercase;
 }
 
 .text-align-left {

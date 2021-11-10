@@ -3,50 +3,28 @@
  https://frontstuff.io/in-defense-of-utility-first-css
 */
 
+
+.display-block {
+  display: block;
+}
+.display-contents {
+  display: contents;
+}
 .display-flex {
   display: flex;
 }
-
-.flex-direction-column {
-  flex-direction: column;
+.display-grid {
+  display: grid;
 }
-
-.flex-wrap {
-  flex-wrap: wrap;
+.display-inline {
+  display: inline;
 }
-.flex-wrap-none {
-  flex-wrap: nowrap;
+.display-none {
+  display: none;
 }
-.flex-wrap-reverse {
-  flex-wrap: wrap-reverse;
+.display-table {
+  display: table;
 }
-
-
-.align-items-baseline {
-  align-items: baseline;
-}
-.align-items-center {
-  align-items: center;
-}
-.align-items-stretch {
-  align-items: stretch;
-}
-.align-items-flex-start {
-  align-items: flex-start;
-}
-.align-items-flex-end {
-  align-items: flex-end;
-}
-
-
-.justify-content-space-around {
-  justify-content: space-around;
-}
-
-.justify-content-center {
-  justify-content: center;
-}
-
-.justify-content-space-between {
-  justify-content: space-between;
+.display-inherit {
+  display: inherit;
 }
