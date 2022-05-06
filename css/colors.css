@@ -17,6 +17,7 @@
   --color-blue-3: #0597F2;
   --color-blue-4: #74D8FF;
   --color-blue-5: #D5F2FE;
+  --color-blue-6: #2151A1;
   --color-red-1: #F5222D;
   --color-red-2: #CF1322;
   --color-green-1: #88B441;
@@ -174,6 +175,16 @@
 }
 .border-color-blue-5 {
   border-color: var(--color-blue-5);
+}
+/* Blue 6 */
+.color-blue-6 {
+  color: var(--color-blue-6);
+}
+.bg-color-blue-6 {
+  background-color: var(--color-blue-6);
+}
+.border-color-blue-6 {
+  border-color: var(--color-blue-6);
 }
 
 /* Red 1 */
